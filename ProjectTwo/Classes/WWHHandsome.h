@@ -10,4 +10,6 @@
 
 @interface WWHHandsome : NSObject
 
+@property(nonatomic , assign)NSString *name;
+
 @end
